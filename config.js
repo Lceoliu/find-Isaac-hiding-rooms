@@ -1,1 +1,1 @@
-window.MAPGEN_CONFIG = { backend: 'pyodide', pyodide: 'https://cdn.jsdelivr.net/pyodide/v314.0.7/full/' };
+window.MAPGEN_CONFIG = {"backend": "pyodide", "pyodide": "https://cdn.jsdelivr.net/pyodide/v314.0.7/full/", "supabase": {"url": "https://evvufjkrmxdjootmgeyk.supabase.co", "key": "sb_publishable_ed_QjuVVwLtC-PmPO8vokg_HznLaV7w"}};
